@@ -2,7 +2,7 @@
 
 AI automation and agentic-systems builder. I turn brittle AI workflows, generated codebases, and messy integrations into working shipped tools with tests, screenshots, logs, and handoff docs.
 
-**Open this week for paid 24-48 hour sprints.** Best fit: a concrete workflow, agent, or internal tool that needs to work in production fast.
+**Open this week for paid 24-48 hour sprints.** Best fit: a concrete workflow, agent, or internal tool that needs to work in production fast. Start from the [live sprint menu](https://sravan27.github.io/money-27-proof/) or email a one-paragraph scope.
 
 ### Fast Sprint Shapes
 
@@ -18,6 +18,7 @@ AI automation and agentic-systems builder. I turn brittle AI workflows, generate
 - [Landing-page leak finder demo](https://sravan27.github.io/money-27-proof/proof/landing_page_leak_finder_demo.html)
 - [Agent cost leak checker](https://sravan27.github.io/money-27-proof/agent-cost-leak-checker.html)
 - [Context OS v2.9.0 GitHub Action](https://github.com/sravan27/context-os/releases/tag/v2.9.0)
+- [Private repo audit request](https://github.com/sravan27/context-os/issues/new?template=private_audit.yml)
 
 ### Featured Repos
 
