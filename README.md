@@ -6,7 +6,7 @@ AI automation, agentic-systems, and correctness engineer. I turn brittle AI work
 
 ### Recent proof (this month)
 
-Found and fixed silent **data-loss bugs in five production databases** — PowerSync, Rocicorp's Zero, InstantDB, ElectricSQL, and Dexie (fixes merged / PRs open) — the kind that return the wrong rows with no error. Packaged the audit as an open-source checker, [silentdrop](https://github.com/sravan27/silentdrop) (`npm i silentdrop`), and applied the same discipline to fintech money-math and a mortgage servicing-copilot core.
+Found and fixed silent **data-loss bugs in five production databases** — PowerSync, Rocicorp's Zero, InstantDB, ElectricSQL, and Dexie (fixes merged / PRs open) — the kind that return the wrong rows with no error. Packaged the audit as an open-source checker, [silentdrop](https://github.com/sravan27/silentdrop) (`npm i silentdrop`), and applied the same discipline to fintech money-math, a mortgage servicing-copilot core, and the silent-failure modes of LLM responses (silentdrop-llm).
 
 Write-ups: [silent data-loss in 5 databases](https://dev.to/sravan27/i-found-silent-data-loss-bugs-in-5-production-databases-this-month-heres-the-open-source-checker-hf1) · [money math done right](https://dev.to/sravan27/your-javascript-app-is-probably-losing-cents-money-math-done-right-254o)
 
@@ -30,6 +30,7 @@ Write-ups: [silent data-loss in 5 databases](https://dev.to/sravan27/i-found-sil
 ### Featured Repos
 
 - [silentdrop](https://github.com/sravan27/silentdrop): finds silent data-loss bugs (LIKE / case-fold / comparison divergences) in JS database query layers. `npm i silentdrop`.
+- [silentdrop-llm](https://github.com/sravan27/silentdrop-llm): runtime guard against silent LLM-response failures — missing required fields, enum drift, hallucinated IDs, claim/list mismatches. `npm i silentdrop-llm`.
 - [servicing-copilot-core](https://github.com/sravan27/servicing-copilot-core): tested core of a mortgage servicing copilot — integer-cent money math, tamper-evident audit trail, role-scoped PII access.
 - [mortgage-money-math](https://github.com/sravan27/mortgage-money-math): money math built so it can't silently lose cents.
 - [context-os](https://github.com/sravan27/context-os): CI gate for coding-agent context and cost leaks across Claude Code, Codex, Cursor, and other agentic coding workflows.
