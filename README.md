@@ -8,6 +8,8 @@ AI automation, agentic-systems, and correctness engineer. I turn brittle AI work
 
 Found and fixed silent **data-loss bugs in five production databases** — PowerSync, Rocicorp's Zero, InstantDB, ElectricSQL, and Dexie (fixes merged / PRs open) — the kind that return the wrong rows with no error. Packaged the audit as an open-source checker, [silentdrop](https://github.com/sravan27/silentdrop) (`npm i silentdrop`), and applied the same discipline to fintech money-math, a mortgage servicing-copilot core, and the silent-failure modes of LLM responses (silentdrop-llm).
 
+Recently shipped, third-party reviewable: PRs landed at HomeOfferDirect (Stripe-billed Next.js+Supabase SaaS — [#245 merged](https://github.com/margaritauk/home-offer-direct/pull/245), [#347 open](https://github.com/margaritauk/home-offer-direct/pull/347)), Autumn (open-source billing platform — [#1838](https://github.com/useautumn/autumn/pull/1838), [#1839](https://github.com/useautumn/autumn/pull/1839)), and Vercel HackerOne #3750642 (PoC at [vercel-skills-symlink-poc](https://github.com/sravan27/vercel-skills-symlink-poc)).
+
 Write-ups: [silent data-loss in 5 databases](https://dev.to/sravan27/i-found-silent-data-loss-bugs-in-5-production-databases-this-month-heres-the-open-source-checker-hf1) · [money math done right](https://dev.to/sravan27/your-javascript-app-is-probably-losing-cents-money-math-done-right-254o)
 
 ### Fast Sprint Shapes
