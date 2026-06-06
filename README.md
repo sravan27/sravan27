@@ -40,6 +40,13 @@ Write-ups: [silent data-loss in 5 databases](https://dev.to/sravan27/i-found-sil
 - [glasswall](https://github.com/sravan27/glasswall): GitHub-native patch-gap operations for public-fix-to-private-remediation workflows.
 - [agent-activity-graph](https://github.com/sravan27/agent-activity-graph): runtime evidence layer for AI agents in enterprise workflows.
 
+### Engagement
+
+Two ways to start:
+
+- **Diagnostic Fix — $500** — one scoped bug or correctness issue, 24h turnaround, patch + write-up + handoff. Right when you have a single thing that's silently wrong and you want it fixed cleanly. → https://buy.polar.sh/polar_cl_G0fuUHHZ1tg9E0oe7gluje9gs44l8FAqVnfwS2AJkbw
+- **48-Hour Implementation — $1,000** — one defined workflow / agent / hardening sprint shipped in 48h with tests, runbook, and handoff. No-find-no-charge on correctness/security audits. → https://buy.polar.sh/polar_cl_z0eLsPUJeMwrcNs4MQPAQbKIM3Rbdb8fLDgVj2RZcmr
+
 ### Contact
 
 Email: sravan272001@gmail.com
