@@ -2,7 +2,9 @@
 
 AI automation, agentic-systems, and correctness engineer. I turn brittle AI workflows, generated codebases, and correctness-critical systems into working shipped tools — with tests, repros, screenshots, logs, and handoff docs.
 
-**Open this week for paid 24-48 hour sprints.** Best fit: a concrete workflow, agent, internal tool, or a correctness-critical layer (money math, data/sync, access control) that needs to work in production fast. Start from the [live sprint menu](https://sravan27.github.io/money-27-proof/) or email a one-paragraph scope.
+**Open this week for paid 24-48 hour sprints.** Best fit: a concrete workflow, agent, internal tool, or a correctness-critical layer (money math, data/sync, access control) that needs to work in production fast.
+
+→ **[silentdrop-sravan.vercel.app](https://silentdrop-sravan.vercel.app)** has the audit summary, sprint pricing ($1k full / $500 diagnostic), and one-click Polar booking. Or email a one-paragraph scope.
 
 ### Recent proof (this month)
 
